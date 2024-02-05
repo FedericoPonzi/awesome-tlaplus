@@ -64,6 +64,13 @@ TLA+ is a formal specification and verification language to help engineers desig
 * Better-comments (VSCode): https://github.com/alygin/better-comments
 * TLC command-line wrapper: https://github.com/pmer/tla-bin
 
+### Parsers
+
+* [SANY](https://github.com/tlaplus/tlaplus/tree/master/tlatools/org.lamport.tlatools/src/tla2sany) (Syntactic Analyzer): A parser and syntax checker for TLA+ specifications
+* [TLAPS](https://github.com/tlaplus/tlapm): A system for mechanically checking proofs written in TLA+
+* [tree-sitter-tlaplus](https://github.com/tlaplus-community/tree-sitter-tlaplus): A tree-sitter grammar for TLA⁺ and PlusCal 
+* [tlapy](https://github.com/johnyf/tlapy): A collection of Python tools for working with TLA+ specifications
+
 ## Books
 
 * [Specifying Systems](https://lamport.azurewebsites.net/tla/book.html) (freely available)
